@@ -1,8 +1,8 @@
 {
   ".gitattributes": {
-    "size": 396,
-    "time": 1793985349,
-    "hash": "3125e034c3208384f6930ffd213ed7b737ae5f7c"
+    "size": 512,
+    "time": 1793985362,
+    "hash": "b8c64ab0e06ea1770d2c666a6e31228fa28a8799"
   },
   ".github/workflows/update-worktree.yml": {
     "size": 1488,
