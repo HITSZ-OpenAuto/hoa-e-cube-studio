@@ -1,0 +1,50 @@
+name: Update Worktree
+
+# main 有更新后重新生成 worktree 分支的文件清单，站点据此渲染资料树
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: worktree-${{ github.repository }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  worktree:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate worktree info
+        run: python3 scripts/update-worktree.py --push
+
+      - name: Trigger site build
+        # 可选：配置 SITE_DISPATCH_TOKEN 后立即重建 hoa.moe，
+        # 未配置时站点自身的每日定时构建同样会拉取最新清单。
+        continue-on-error: true
+        env:
+          PAT: ${{ secrets.SITE_DISPATCH_TOKEN }}
+          SITE_REPO: ${{ vars.SITE_REPO }}
+        run: |
+          if [ -z "${PAT}" ] || [ -z "${SITE_REPO}" ]; then
+            echo "未配置 SITE_DISPATCH_TOKEN / SITE_REPO，跳过站点构建触发"
+            exit 0
+          fi
+          curl --fail-with-body -sS -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${PAT}" \
+            "https://api.github.com/repos/${SITE_REPO}/actions/workflows/build.yml/dispatches" \
+            -d '{"ref":"main"}'

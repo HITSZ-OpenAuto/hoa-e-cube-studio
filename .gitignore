@@ -1,0 +1,27 @@
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 下载临时文件
+*.part
+*.download
+
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 凭据：严禁提交
+.env
+.env.*
+*token*.txt
+*令牌*.txt
+*.key
+*.pem

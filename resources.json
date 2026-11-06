@@ -1,0 +1,285 @@
+{
+  "id": "e-cube",
+  "title": "深圳 E立方工作室",
+  "subtitle": "信息学部「E立方」学风涵养工作室 × HITSZ 开源技术协会",
+  "summary": "E立方学风涵养工作室资料栈，围绕创新创业、学业辅导、生涯规划三大板块，沉淀工作室历年活动的方案、讲义、录播与经验分享。站内收录可公开分发的小体积文档；讲座视频等大文件保留在资料栈原地址。",
+  "origin": "http://10.249.44.116:5244",
+  "originLabel": "资料栈（校内网）",
+  "access": "资料栈部署在校内网，需校园网或学校 VPN 访问；账号凭据通过内部渠道分发，本站与仓库均不公开。站内已镜像的文档可直接下载，无需登录。",
+  "license": "资料版权归原作者与「E立方」学风涵养工作室所有，转载请注明来源并保留署名",
+  "licenseUrl": "",
+  "notice": "资料栈由「E立方」学风涵养工作室与 HITSZ 开源技术协会共同筹备维护；站内镜像仅用于检索与分享，第一手来源以资料栈原站为准。",
+  "contact": {
+    "qq": "537014050",
+    "feedback": "https://docs.qq.com/form/page/DUnJtSEdKaEJpUXVT",
+    "images": [
+      {
+        "label": "QQ 群二维码",
+        "path": "docs/QQ群二维码.jpg"
+      },
+      {
+        "label": "用户反馈问卷二维码",
+        "path": "docs/用户反馈问卷二维码.png"
+      }
+    ]
+  },
+  "external": [
+    {
+      "path": "学业辅导/2023线性代数期中讲座/矩阵.mp4",
+      "name": "矩阵.mp4",
+      "size": 178657911,
+      "time": 1732192855,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/2023%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%AE%B2%E5%BA%A7/%E7%9F%A9%E9%98%B5.mp4?sign=fFFKSFI5LFqBBek7aShjDt7j_RfpnyhvbjdH_9N_z-E=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/2024线性代数期中讲座及模拟考/线性代数讲座（模拟卷讲解）.mp4",
+      "name": "线性代数讲座（模拟卷讲解）.mp4",
+      "size": 538750725,
+      "time": 1732195021,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/2024%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%AE%B2%E5%BA%A7%E5%8F%8A%E6%A8%A1%E6%8B%9F%E8%80%83/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E8%AE%B2%E5%BA%A7%EF%BC%88%E6%A8%A1%E6%8B%9F%E5%8D%B7%E8%AE%B2%E8%A7%A3%EF%BC%89.mp4?sign=V_nFsp89OikHl05Pf0NlB5rh_RCGz4LWoWWCpytYmis=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/2024线性代数期中讲座及模拟考/线性代数讲座（重难点题型讲解）.mp4",
+      "name": "线性代数讲座（重难点题型讲解）.mp4",
+      "size": 154093611,
+      "time": 1732194730,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/2024%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%AE%B2%E5%BA%A7%E5%8F%8A%E6%A8%A1%E6%8B%9F%E8%80%83/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E8%AE%B2%E5%BA%A7%EF%BC%88%E9%87%8D%E9%9A%BE%E7%82%B9%E9%A2%98%E5%9E%8B%E8%AE%B2%E8%A7%A3%EF%BC%89.mp4?sign=BIHw9w32keE4Pvq3H-BJBjEiW72UwSkcJ26V0XbBfF8=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/大学物理/22级讲解/力学：质点运动学 & 质点动力学 & 刚体的定轴转动/na9uvl_大物力学.mp4",
+      "name": "na9uvl_大物力学.mp4",
+      "size": 114825446,
+      "time": 1730299200,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E5%8A%9B%E5%AD%A6%EF%BC%9A%E8%B4%A8%E7%82%B9%E8%BF%90%E5%8A%A8%E5%AD%A6%20&%20%E8%B4%A8%E7%82%B9%E5%8A%A8%E5%8A%9B%E5%AD%A6%20&%20%E5%88%9A%E4%BD%93%E7%9A%84%E5%AE%9A%E8%BD%B4%E8%BD%AC%E5%8A%A8/na9uvl_%E5%A4%A7%E7%89%A9%E5%8A%9B%E5%AD%A6.mp4?sign=2QXAbZoLisf7nTyhlRcEFrIyC_W_SunDrVS55KDbkgs=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/大学物理/22级讲解/机械振动 & 机械波/讲解视频/机械振动与机械波.mp4",
+      "name": "机械振动与机械波.mp4",
+      "size": 77229906,
+      "time": 1730300736,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E6%9C%BA%E6%A2%B0%E6%8C%AF%E5%8A%A8%20&%20%E6%9C%BA%E6%A2%B0%E6%B3%A2/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91/%E6%9C%BA%E6%A2%B0%E6%8C%AF%E5%8A%A8%E4%B8%8E%E6%9C%BA%E6%A2%B0%E6%B3%A2.mp4?sign=-y3-w72bEV9CQUIueFLm_0YuPRbak3b3cxed8v5nboY=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/大学物理/22级讲解/波动光学/波动光学讲解视频.mp4",
+      "name": "波动光学讲解视频.mp4",
+      "size": 116322384,
+      "time": 1730301286,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E6%B3%A2%E5%8A%A8%E5%85%89%E5%AD%A6/%E6%B3%A2%E5%8A%A8%E5%85%89%E5%AD%A6%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91.mp4?sign=4gQrjGQOAhdS9fiJbomh52DmTExzQ9US0YNGJ6kHBW0=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/大学物理/22级讲解/电磁感应与电磁场/mzmus3_电磁感应录屏.mp4",
+      "name": "mzmus3_电磁感应录屏.mp4",
+      "size": 160022971,
+      "time": 1730300402,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E7%94%B5%E7%A3%81%E6%84%9F%E5%BA%94%E4%B8%8E%E7%94%B5%E7%A3%81%E5%9C%BA/mzmus3_%E7%94%B5%E7%A3%81%E6%84%9F%E5%BA%94%E5%BD%95%E5%B1%8F.mp4?sign=MpZYarcA1e4b6R1RdFDjycEbKc1eS2TMWgZuLFVjeuA=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/大学物理/22级讲解/补考帮扶-波动光学.zip",
+      "name": "补考帮扶-波动光学.zip",
+      "size": 94876443,
+      "time": 1734748243,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6-%E6%B3%A2%E5%8A%A8%E5%85%89%E5%AD%A6.zip?sign=PthvKaMvWgp8JpyumPHhvY9_NStVTsPVuQL_1CUZ9FI=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/微积分A/23级/试卷/期中/[网盘计划]微积分期中历年题2022.pdf",
+      "name": "[网盘计划]微积分期中历年题2022.pdf",
+      "size": 86717089,
+      "time": 1730302592,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%BE%AE%E7%A7%AF%E5%88%86A/23%E7%BA%A7/%E8%AF%95%E5%8D%B7/%E6%9C%9F%E4%B8%AD/%5B%E7%BD%91%E7%9B%98%E8%AE%A1%E5%88%92%5D%E5%BE%AE%E7%A7%AF%E5%88%86%E6%9C%9F%E4%B8%AD%E5%8E%86%E5%B9%B4%E9%A2%982022.pdf?sign=Q7AFtqU7jKekHEWZCC_izcFLcpjwifjnYGkd8pdyhxQ=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/微积分A/23级/辅导书/工数习题解答  上.pdf",
+      "name": "工数习题解答  上.pdf",
+      "size": 53976487,
+      "time": 1730302380,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%BE%AE%E7%A7%AF%E5%88%86A/23%E7%BA%A7/%E8%BE%85%E5%AF%BC%E4%B9%A6/%E5%B7%A5%E6%95%B0%E4%B9%A0%E9%A2%98%E8%A7%A3%E7%AD%94%20%20%E4%B8%8A.pdf?sign=KDRaUy5nXArgM5fg59u_cMMfLgfQqNXR2CtGQeea328=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/微积分B/22级讲解/第十一章：曲线积分与曲面积分 第一二三节（格林公式）/讲解视频/wtqbqf_8.16曲线积分回放.mp4",
+      "name": "wtqbqf_8.16曲线积分回放.mp4",
+      "size": 126346824,
+      "time": 1730304626,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E5%BE%AE%E7%A7%AF%E5%88%86B/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%EF%BC%9A%E6%9B%B2%E7%BA%BF%E7%A7%AF%E5%88%86%E4%B8%8E%E6%9B%B2%E9%9D%A2%E7%A7%AF%E5%88%86%20%E7%AC%AC%E4%B8%80%E4%BA%8C%E4%B8%89%E8%8A%82%EF%BC%88%E6%A0%BC%E6%9E%97%E5%85%AC%E5%BC%8F%EF%BC%89/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91/wtqbqf_8.16%E6%9B%B2%E7%BA%BF%E7%A7%AF%E5%88%86%E5%9B%9E%E6%94%BE.mp4?sign=H6VrUNLo4MMzELlpwi8VDhkS5w4cVyHngtpZpeUZypY=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数据结构/22级讲解/一到五章/讲解视频/数据结构第一部分串讲.mp4",
+      "name": "数据结构第一部分串讲.mp4",
+      "size": 193395014,
+      "time": 1730305316,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E4%B8%80%E5%88%B0%E4%BA%94%E7%AB%A0/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E4%B8%B2%E8%AE%B2.mp4?sign=nD9b4cPUpXdsznBreZrgGM6GqAVqtpBoMN4zmQWbieQ=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数据结构/22级讲解/第七章/讲解视频/meeting_01.mp4",
+      "name": "meeting_01.mp4",
+      "size": 109659150,
+      "time": 1730353444,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E7%AC%AC%E4%B8%83%E7%AB%A0/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91/meeting_01.mp4?sign=Nv1xCizUSzAAlRTOnI7XjH1I6AUfUbJRY7P7vwH9gY4=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数据结构/22级讲解/第六章/讲解视频/keqmgm_D构造🌲 (1).mp4",
+      "name": "keqmgm_D构造🌲 (1).mp4",
+      "size": 101022866,
+      "time": 1730353262,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E7%AC%AC%E5%85%AD%E7%AB%A0/%E8%AE%B2%E8%A7%A3%E8%A7%86%E9%A2%91/keqmgm_D%E6%9E%84%E9%80%A0%F0%9F%8C%B2%20%281%29.mp4?sign=XaPPFkjL8TlHNY-a9LvYeUPoDu0RlefPsj7PN3gzNPY=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数理逻辑/22级讲解/Unit2/录制文件/数理逻辑Unit2.mp4",
+      "name": "数理逻辑Unit2.mp4",
+      "size": 138851975,
+      "time": 1730186734,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/Unit2/%E5%BD%95%E5%88%B6%E6%96%87%E4%BB%B6/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91Unit2.mp4?sign=FGyJVq6MCZJOSNmvBn795iDlm23t649Ohi8U20h_nB4=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数理逻辑/22级讲解/Unit3/录制文件/数理逻辑第三讲.mp4",
+      "name": "数理逻辑第三讲.mp4",
+      "size": 695682268,
+      "time": 1730187084,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/Unit3/%E5%BD%95%E5%88%B6%E6%96%87%E4%BB%B6/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%AC%AC%E4%B8%89%E8%AE%B2.mp4?sign=4QtdF0478GbqrhFhfGFbZv-peoqrCeOOjzJE9GexSSE=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/数理逻辑/22级讲解/Unit4/录制文件/数理逻辑U4.mov",
+      "name": "数理逻辑U4.mov",
+      "size": 584492974,
+      "time": 1730187126,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/Unit4/%E5%BD%95%E5%88%B6%E6%96%87%E4%BB%B6/%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91U4.mov?sign=qasegfQe3001poD14HXqoUXIdKJAqidWkVaGlc2NSZY=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/概率论与数理统计/22级讲解/参数估计/回放/20240222135509-概率论与数理统计-视频-1.mp4",
+      "name": "20240222135509-概率论与数理统计-视频-1.mp4",
+      "size": 162116734,
+      "time": 1730218267,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E5%8F%82%E6%95%B0%E4%BC%B0%E8%AE%A1/%E5%9B%9E%E6%94%BE/20240222135509-%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E8%A7%86%E9%A2%91-1.mp4?sign=86L45LQ4JKStYz4nYTJIFp-l5Taycy9Wr2R1Z-LYa8w=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/概率论与数理统计/复习资料/辅导书/电子教材、辅导书/[HIT教材]概率论与数理统计-第三版-高等教育出版社.pdf",
+      "name": "[HIT教材]概率论与数理统计-第三版-高等教育出版社.pdf",
+      "size": 109758422,
+      "time": 1730183202,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BE%85%E5%AF%BC%E4%B9%A6/%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90%E3%80%81%E8%BE%85%E5%AF%BC%E4%B9%A6/%5BHIT%E6%95%99%E6%9D%90%5D%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC%E4%B8%89%E7%89%88-%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%E5%87%BA%E7%89%88%E7%A4%BE.pdf?sign=lX6hX9LG7Zw89u5jE57RxUY-ecUwS2Mp2cosoQk739U=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/概率论与数理统计/复习资料/辅导书/电子教材、辅导书/概率论与数理统计-第2版(王勇).pdf",
+      "name": "概率论与数理统计-第2版(王勇).pdf",
+      "size": 54516365,
+      "time": 1730183192,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%BE%85%E5%AF%BC%E4%B9%A6/%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90%E3%80%81%E8%BE%85%E5%AF%BC%E4%B9%A6/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1-%E7%AC%AC2%E7%89%88%28%E7%8E%8B%E5%8B%87%29.pdf?sign=SYhqltnijuVFo3SO-UWcyhBH6ifJXIRc1_kbBizKoFY=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/线性代数/试卷/往年期末，模拟卷/线代-2006_21合集-期末-本部-试题和答案.pdf",
+      "name": "线代-2006_21合集-期末-本部-试题和答案.pdf",
+      "size": 58872127,
+      "time": 1730303032,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%95%E5%8D%B7/%E5%BE%80%E5%B9%B4%E6%9C%9F%E6%9C%AB%EF%BC%8C%E6%A8%A1%E6%8B%9F%E5%8D%B7/%E7%BA%BF%E4%BB%A3-2006_21%E5%90%88%E9%9B%86-%E6%9C%9F%E6%9C%AB-%E6%9C%AC%E9%83%A8-%E8%AF%95%E9%A2%98%E5%92%8C%E7%AD%94%E6%A1%88.pdf?sign=8paKCj-q6y1hR4BgjssUiMHgj2bnoYMqlV2fWJ2XltI=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第一节（2026-08-21）/20260821184523-计算机组成原理补考讲座第一节-视频-1-共享屏幕.mp4",
+      "name": "20260821184523-计算机组成原理补考讲座第一节-视频-1-共享屏幕.mp4",
+      "size": 198225590,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%882026-08-21%EF%BC%89/20260821184523-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%B8%80%E8%8A%82-%E8%A7%86%E9%A2%91-1-%E5%85%B1%E4%BA%AB%E5%B1%8F%E5%B9%95.mp4?sign=B7bsbgFpeYnONsdA7IyeX4z5fBaYN15LB2PzZbrwV6o=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第一节（2026-08-21）/20260821184523-计算机组成原理补考讲座第一节-视频-1-说话人.mp4",
+      "name": "20260821184523-计算机组成原理补考讲座第一节-视频-1-说话人.mp4",
+      "size": 81525852,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%882026-08-21%EF%BC%89/20260821184523-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%B8%80%E8%8A%82-%E8%A7%86%E9%A2%91-1-%E8%AF%B4%E8%AF%9D%E4%BA%BA.mp4?sign=O4Zj1JyPkX7Y-asyb56aqwQFQ8vedxd8UL2rTeKsAKc=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第一节（2026-08-21）/20260821184523-计算机组成原理补考讲座第一节-视频-1.mp4",
+      "name": "20260821184523-计算机组成原理补考讲座第一节-视频-1.mp4",
+      "size": 168619885,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%B8%80%E8%8A%82%EF%BC%882026-08-21%EF%BC%89/20260821184523-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%B8%80%E8%8A%82-%E8%A7%86%E9%A2%91-1.mp4?sign=iDTao_VrnCQy7QfKC13Nx9OhrX3os_A1NH_t5jFqIGg=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1-共享屏幕.mp4",
+      "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1-共享屏幕.mp4",
+      "size": 333376147,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%882026-08-22%EF%BC%89/20260822155746-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A7%86%E9%A2%91-1-%E5%85%B1%E4%BA%AB%E5%B1%8F%E5%B9%95.mp4?sign=d--Zgwu83spb53A78MgZHzIc7xj2Tu1-wYMmaHaEtZo=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1-说话人.mp4",
+      "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1-说话人.mp4",
+      "size": 129072818,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%882026-08-22%EF%BC%89/20260822155746-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A7%86%E9%A2%91-1-%E8%AF%B4%E8%AF%9D%E4%BA%BA.mp4?sign=_NfB97HfOnA1Mux3U0aLUv1llLQbnRrnPg8BhTSpbGo=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1.mp4",
+      "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1.mp4",
+      "size": 280518363,
+      "time": 0,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/2026%E5%B9%B4%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7/%E7%AC%AC%E4%BA%8C%E8%8A%82%EF%BC%882026-08-22%EF%BC%89/20260822155746-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E8%A1%A5%E8%80%83%E8%AE%B2%E5%BA%A7%E7%AC%AC%E4%BA%8C%E8%8A%82-%E8%A7%86%E9%A2%91-1.mp4?sign=ShZjTt3bUViXGsUJFw19JMro_2Du1XGVG4_Gw5bnOuw=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/22级讲解/第三节RISC-V指令系统/章节笔记/3.pdf",
+      "name": "3.pdf",
+      "size": 74291695,
+      "time": 1730200018,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/22%E7%BA%A7%E8%AE%B2%E8%A7%A3/%E7%AC%AC%E4%B8%89%E8%8A%82RISC-V%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/%E7%AB%A0%E8%8A%82%E7%AC%94%E8%AE%B0/3.pdf?sign=TVaKmyu93L6ulpvqkhU8c3dO_sbp-95BNOJ47HtZ-VE=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/复习资料/考试题/计算机组成原理-多年合集-本部和威海-试题和答案.pdf",
+      "name": "计算机组成原理-多年合集-本部和威海-试题和答案.pdf",
+      "size": 72202905,
+      "time": 1730200334,
+      "url": "http://10.249.44.116:5244/p/%E5%AD%A6%E4%B8%9A%E8%BE%85%E5%AF%BC/%E5%8E%86%E5%B9%B4%E8%A1%A5%E8%80%83%E5%B8%AE%E6%89%B6%E8%B5%84%E6%96%99%EF%BC%88%E7%9B%B4%E6%92%AD%E5%9B%9E%E6%94%BE%EF%BC%8C%E7%AC%94%E8%AE%B0%EF%BC%8CPPT%EF%BC%89/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99/%E8%80%83%E8%AF%95%E9%A2%98/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86-%E5%A4%9A%E5%B9%B4%E5%90%88%E9%9B%86-%E6%9C%AC%E9%83%A8%E5%92%8C%E5%A8%81%E6%B5%B7-%E8%AF%95%E9%A2%98%E5%92%8C%E7%AD%94%E6%A1%88.pdf?sign=Vh-SYSACvcT2nzvbQowRwzoJHcPjoBJ1XJ-r4WeU1Yk=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "生涯规划/大学生活强心针/大学经验分享.mp4",
+      "name": "大学经验分享.mp4",
+      "size": 160505151,
+      "time": 1732194295,
+      "url": "http://10.249.44.116:5244/p/%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E5%BC%BA%E5%BF%83%E9%92%88/%E5%A4%A7%E5%AD%A6%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB.mp4?sign=2xtWgm27bUTIMdbKjGzafMh6wjewqJGl0m9k_xiucqE=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    },
+    {
+      "path": "生涯规划/港校分享/20240428192009-港校申请分享-视频-1.mp4",
+      "name": "20240428192009-港校申请分享-视频-1.mp4",
+      "size": 61006442,
+      "time": 1730189455,
+      "url": "http://10.249.44.116:5244/p/%E7%94%9F%E6%B6%AF%E8%A7%84%E5%88%92/%E6%B8%AF%E6%A0%A1%E5%88%86%E4%BA%AB/20240428192009-%E6%B8%AF%E6%A0%A1%E7%94%B3%E8%AF%B7%E5%88%86%E4%BA%AB-%E8%A7%86%E9%A2%91-1.mp4?sign=TdIynOyq5VlEgSSJG9-KD6V35nDH1jzxID0cdKsFxKo=:0",
+      "note": "超过 GitHub 单文件上限，保留在资料栈原地址下载"
+    }
+  ],
+  "netdisk": false,
+  "policy": {
+    "mirroredMaxSize": 52428800,
+    "mirroredCount": 388,
+    "externalCount": 31,
+    "mirroredSize": 946689853,
+    "externalSize": 5469532540,
+    "syncedAt": 1793988495
+  }
+}
