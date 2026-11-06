@@ -1,0 +1,62 @@
+[
+  {
+    "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1-共享屏幕.mp4",
+    "bytes": 333376147,
+    "sha256": "750a4eb0317989e683a0359f27eb9b937ae1769eefebdffbe0bd9bf46bfea315",
+    "duration_seconds": 7393.888,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 2560,
+        "height": 1440
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ],
+    "remote_path": "/学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1-共享屏幕.mp4",
+    "verified_remote_size": true
+  },
+  {
+    "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1-说话人.mp4",
+    "bytes": 129072818,
+    "sha256": "d0479f59fb46782f859ad7b3d3e7e6b04355c99a27c077b51f34fa02f8504003",
+    "duration_seconds": 7393.888,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ],
+    "remote_path": "/学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1-说话人.mp4",
+    "verified_remote_size": true
+  },
+  {
+    "name": "20260822155746-计算机组成原理补考讲座第二节-视频-1.mp4",
+    "bytes": 280518363,
+    "sha256": "e8a2880b0be9ec8bb85f529d26ce75ee596f5d5a120dc4c7139a61bf120591e7",
+    "duration_seconds": 7395.008,
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 2160,
+        "height": 1080
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ],
+    "remote_path": "/学业辅导/历年补考帮扶资料（直播回放，笔记，PPT）/计算机组成原理/2026年补考讲座/第二节（2026-08-22）/20260822155746-计算机组成原理补考讲座第二节-视频-1.mp4",
+    "verified_remote_size": true
+  }
+]
