@@ -158,8 +158,11 @@ def main() -> int:
     print(f"→ 已更新 {args.branch} 分支")
 
     if args.push:
+        # 用显式分支名而不是 HEAD：脚本末尾会切回 main，
+        # 若此处用 HEAD 推送，在 main 上执行就会把 main 内容推上 worktree 分支。
         subprocess.run(
-            ["git", "push", "--force", "origin", f"HEAD:{args.branch}"], check=True
+            ["git", "push", "--force", "origin", f"{args.branch}:{args.branch}"],
+            check=True,
         )
         print(f"→ 已推送 {args.branch} 分支")
 
