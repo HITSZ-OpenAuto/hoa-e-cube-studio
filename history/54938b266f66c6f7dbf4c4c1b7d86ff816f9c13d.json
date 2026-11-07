@@ -15,9 +15,9 @@
     "hash": "27f39a3b3ee85dddfe0ca26eed72aeee95fe120e"
   },
   ".sync-state.json": {
-    "size": 95470,
-    "time": 1794012491,
-    "hash": "c4ad00907eaa42ee3a983b366646b7ea703f1148"
+    "size": 95427,
+    "time": 1794014573,
+    "hash": "54938b266f66c6f7dbf4c4c1b7d86ff816f9c13d"
   },
   "LICENSE": {
     "size": 1463,
@@ -25,9 +25,9 @@
     "hash": "27f39a3b3ee85dddfe0ca26eed72aeee95fe120e"
   },
   "README.md": {
-    "size": 4994,
-    "time": 1794012491,
-    "hash": "c4ad00907eaa42ee3a983b366646b7ea703f1148"
+    "size": 4879,
+    "time": 1794014573,
+    "hash": "54938b266f66c6f7dbf4c4c1b7d86ff816f9c13d"
   },
   "docs/QQ群二维码.jpg": {
     "size": 442964,
@@ -46,13 +46,13 @@
   },
   "resources.json": {
     "size": 29536,
-    "time": 1794012491,
-    "hash": "c4ad00907eaa42ee3a983b366646b7ea703f1148"
+    "time": 1794014573,
+    "hash": "54938b266f66c6f7dbf4c4c1b7d86ff816f9c13d"
   },
   "scripts/sync-alist.py": {
-    "size": 14182,
-    "time": 1794012491,
-    "hash": "c4ad00907eaa42ee3a983b366646b7ea703f1148"
+    "size": 14139,
+    "time": 1794014573,
+    "hash": "54938b266f66c6f7dbf4c4c1b7d86ff816f9c13d"
   },
   "scripts/sync-and-push.sh": {
     "size": 1152,
